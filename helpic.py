@@ -1,5 +1,5 @@
 # Início do programa!
-print ("")
+print ("...")
 print('HELPIC v1.0' .center(100))
 print ("")
 print(" Bem-vindo(a) a versão 1.0 do Helpic, um guia simples para iniciantes em fotografia.".center(100))

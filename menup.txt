@@ -1,0 +1,7 @@
+
+			   ~~~~~~ MENU PRINCIPAL ~~~~~~
+
+	Caso você seja um iniciante, digite 1		Cores e Organizações, digite 5
+	Fotografias Mobile, digite 2			Redes Sociais, digite 6
+	Câmeras, digite 3				Inspirações, digite 7
+	Aplicativos Mobile, digite 4			Para descobrir um grande fotográfo, digite 8
